@@ -1,3 +1,4 @@
+alert("hai");
 document.getElementById('gform').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the form from submitting
   
